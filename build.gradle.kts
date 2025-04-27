@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "dev.lowlevel"
+group = "com.lowlevel.minecraft"
 version = "1.0-SNAPSHOT"
 
 repositories {
